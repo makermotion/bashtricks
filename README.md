@@ -1,1 +1,4 @@
-# bashtricks
+### bashtricks
+```bash
+deneme
+```
